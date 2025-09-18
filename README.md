@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Grant Brouwer</h1>  
 
 <p align="center">
-  💻 Computer Science Student @ South Dakota State University (Class of 2028) <br>
+  💻 Computer Science Student @ South Dakota State University (Class of 2027) <br>
   🌎 Based in Brookings, SD | 🔍 Seeking internships in Software Development & Data Systems <br>
 </p>
 
@@ -38,8 +38,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" alt="Grant's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gbrouwerpower&show_icons=true&theme=tokyonight" alt="Grant's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbrouwerpower&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>  
 
 ---
