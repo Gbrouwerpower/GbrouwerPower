@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Computer Science Student @ South Dakota State University (Class of 2027) <br>
-  🌎 Based in Brookings, SD | 🔍 Seeking internships in Software Development & Data Systems <br>
+  🌎 Based in Brookings, SD | 🔍 Seeking opportunities in Software Development, IT, and Database Systems <br>
 </p>
 
 ---
@@ -35,25 +35,9 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📫 Contact  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gbrouwerpower&show_icons=true&theme=tokyonight" alt="Grant's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbrouwerpower&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>  
-
----
-
-## 📫 Connect with Me  
-
-<p align="center">
-  <a href="YOUR-LINKEDIN-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR-EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>  
+📧 Email: YOUR-EMAIL-HERE  
 
 ---
 
